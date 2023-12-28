@@ -15,6 +15,8 @@ Embedded Systems Engineer with a focus on firmware.
 - [build-avr-gcc](https://github.com/apcountryman/build-avr-gcc): avr-gcc build script
 - [picolibrary](https://github.com/apcountryman/picolibrary): C++ microcontroller
   driver/utility library targeted for use with resource constrained microcontrollers
+    - [picolibrary-arm-cortex-m0plus](https://github.com/apcountryman/picolibrary-arm-cortex-m0plus):
+      Hardware Interface Layer (HIL) for Arm Cortex-M0+ microcontrollers
     - [picolibrary-microchip-megaavr](https://github.com/apcountryman/picolibrary-microchip-megaavr):
       Hardware Interface Layer (HIL) for Microchip megaAVR microcontrollers
     - [picolibrary-microchip-megaavr0](https://github.com/apcountryman/picolibrary-microchip-megaavr0):
